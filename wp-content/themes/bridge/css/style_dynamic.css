@@ -1,11 +1,25 @@
+.qode-type1-gradient-left-to-right { background: linear-gradient(to right,#92b1d3, #6c869e);}
+
+.qode-type1-gradient-bottom-to-top, .qode-type1-gradient-bottom-to-top-after:after { background: linear-gradient(to top,#92b1d3, #6c869e);}
+
+.qode-type1-gradient-left-bottom-to-right-top { background: linear-gradient(to right top,#92b1d3, #6c869e);}
+
+.qode-type1-gradient-left-to-right-2x { background: linear-gradient(to right,#92b1d3 0%, #6c869e 50%,#92b1d3 100%);background-size: 200% 200%;}
+
+.qode-type1-gradient-left-to-right-text i, .qode-type1-gradient-left-to-right-text i:before, .qode-type1-gradient-left-to-right-text span { background: -webkit-linear-gradient(right top,#6c869e, #92b1d3);color: #92b1d3;-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+
+.qode-type1-gradient-bottom-to-top-text i, .qode-type1-gradient-bottom-to-top-text i:before, .qode-type1-gradient-bottom-to-top-text span, .qode-type1-gradient-bottom-to-top-text span span { background: -webkit-linear-gradient(bottom,#6c869e, #92b1d3);color: #92b1d3;-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+
+.qode-type1-gradient-bottom-to-top-text-hover:hover i, .qode-type1-gradient-bottom-to-top-text-hover:hover i:before, .qode-type1-gradient-bottom-to-top-text-hover:hover span, .qode-type1-gradient-bottom-to-top-text-hover:hover span span { background: -webkit-linear-gradient(bottom,#6c869e, #92b1d3);color: #92b1d3;-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+
 
 					/* Webkit */
 			::selection {
-			background: #a19169;
+			background: #ffce43;
 			}
 							/* Gecko/Mozilla */
 			::-moz-selection {
-			background: #a19169;
+			background: #ffce43;
 			}
 		
 		
@@ -104,7 +118,7 @@
 			.qode-owl-slider-style .owl-nav .owl-prev:hover .qode-next-icon,
 			.qode-owl-slider-style .owl-nav .owl-prev:hover .qode-prev-icon
 			{
-			color: #a19169 !important;
+			color: #281d25 !important;
 			}
 			h2 a:hover,
 			h3 a:hover,
@@ -151,7 +165,7 @@
 			.side_menu a.close_side_menu.qode-side-menu-close-svg:hover
 			{
 
-			color: #a19169;
+			color: #281d25;
 			}
 
 			.box_image_with_border:hover,
@@ -179,12 +193,12 @@
 						input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover,
 			.portfolio_main_holder .item_holder.image_subtle_rotate_zoom_hover .icons_holder a:hover,
 			.tabs_box_navigation.sf-timetable-menu .tabs_box_navigation_selected{
-			border-color: #a19169			}
+			border-color: #281d25			}
 
 			.tt_tabs .tt_tabs_navigation .ui-tabs-active a,
 			.tt_tabs .tt_tabs_navigation li a:hover,
 			.tt_tabs .tt_tabs_navigation li a{
-			border-color: #a19169 !important;
+			border-color: #281d25 !important;
 			}
 
 			.q_icon_list i,
@@ -264,29 +278,191 @@
 			.no-touch .qode-horizontal-timeline .qode-events-wrapper .qode-events a:hover .circle-outer,
 			.qode-horizontal-timeline .qode-events-wrapper .qode-events a.selected .circle-outer
 			{
-			background-color: #a19169;
+			background-color: #281d25;
 			}
 
 
 			.qode-showcase-item-holder.qode-showcase-active .qode-icon-holder.qode-icon-circle{
-			background-color: #a19169 !important;
+			background-color: #281d25 !important;
 			}
 
 			.q_circles_holder .q_circle_inner2:hover,
 			body:not(.search-results) .blog_holder article.format-link .post_text:hover .post_text_inner,
 			body:not(.search-results) .blog_holder article.format-quote .post_text:hover .post_text_inner {
-			background-color: #a19169 !important;
-			border-color: #a19169 !important;
+			background-color: #281d25 !important;
+			border-color: #281d25 !important;
 			}
 
 			.qode-lazy-preloader svg circle,
 			#qode-multi-device-showcase.qode-mds-appear-effect #qode-mds-spinner svg circle {
-			stroke: #a19169			}
+			stroke: #281d25			}
 		
 		
-								
+			h1,h2,h3,h4,h5,h6,
+			.h1,.h2,.h3,.h4,.h5,.h6,
+			h1 a,
+			h2 a,
+			h3 a,
+			h4 a,
+			h5 a,
+			h6 a
+			a,
+			p a,
+			nav.main_menu>ul>li.active > a,
+			.drop_down .wide .second ul li ul li.menu-item-has-children > a,
+			.drop_down .wide .second ul li ul li.menu-item-has-children > a:hover,
+			.title h1,
+			.q_icon_list p,
+			.q_progress_bars_vertical .progress_number,
+			.qbutton,
+			.vc_grid-container .vc_row.vc_grid .vc_grid-item .vc_btn,
+			.vc_grid-container .vc_row.vc_grid .vc_pageable-load-more-btn .vc_btn:hover,
+			.post-password-form input[type='submit'],
+			.load_more a,
+			.blog_load_more_button a,
+			#submit_comment,
+			.drop_down .wide .second ul li .qbutton,
+			.drop_down .wide .second ul li ul li .qbutton,
+			.q_percentage,
+			.portfolio_navigation .portfolio_prev a:hover,
+			.portfolio_navigation .portfolio_next a:hover,
+			.q_tabs .tabs-nav li.active a,
+			.q_accordion_holder.accordion .ui-accordion-header,
+			.q_accordion_holder.accordion.with_icon .ui-accordion-header,
+			.testimonials .testimonial_text_inner p.testimonial_author,
+			.testimonial_content_inner .testimonial_author .website,
+			.q_icon_with_title .icon_with_title_link:hover,
+			.ordered ol li,
+			.q_list.circle ul>li,
+			.q_list.number ul>li,
+			.latest_post_holder .latest_post_date .post_publish_month,
+			.latest_post_inner .post_infos a,
+			.latest_post_holder.dividers .latest_post_date .latest_post_day,
+			.q_masonry_blog article.format-quote .q_masonry_blog_post_text p,
+			.q_masonry_blog article.format-link .q_masonry_blog_post_text p,
+			.q_masonry_blog article .q_masonry_blog_post_info,
+			.blog_holder article.format-quote .post_text .post_title p,
+			.blog_holder article.format-link .post_text .post_title p,
+			.single_links_pages span,
+			.single_links_pages a:hover span,
+			.comment_holder .comment .text .name,
+			.blog_holder.masonry article .post_info,
+			.pagination ul li span,
+			.pagination ul li a:hover,
+			.q_team .q_team_description_inner p,
+			.carousel-inner .item.dark .slider_content .text .qbutton,
+			.carousel-control,
+			.more_facts_button,
+
+						.carousel-control:hover,
+			input.wpcf7-form-control.wpcf7-submit:not([disabled]),
+			.qode-pricing-calculator .qode-pricing-calculator-total-price-holder,
+			.qode-advanced-tabs.qode-advanced-horizontal-tab .qode-advanced-tabs-nav li.ui-state-active a,
+			.qode-advanced-tabs.qode-advanced-horizontal-tab .qode-advanced-tabs-nav li.ui-state-hover a
+			{
+			color: #4c3a46;
+			}
+
+			.qbutton,
+			.vc_grid-container .vc_row.vc_grid .vc_grid-item .vc_btn,
+			.vc_grid-container .vc_row.vc_grid .vc_pageable-load-more-btn .vc_btn:hover,
+			.post-password-form input[type='submit'],
+			.load_more a,
+			.blog_load_more_button a,
+			#submit_comment,
+			.drop_down .wide .second ul li .qbutton,
+			.drop_down .wide .second ul li ul li .qbutton,
+			.testimonials_holder .flex-direction-nav a,
+			.header_top #lang_sel ul li ul li a,
+			.header_top #lang_sel ul li ul li a:visited,
+			.header_top #lang_sel_click ul li ul li a,
+			.header_top #lang_sel_click ul li ul li a:visited,
+
+						.carousel-inner .item.dark .slider_content .text .qbutton,
+			input.wpcf7-form-control.wpcf7-submit:not([disabled]) {
+			border-color: #4c3a46;
+			}
+
+			.ajax_loader .pulse,
+			.ajax_loader .double_pulse .double-bounce1, .ajax_loader .double_pulse .double-bounce2,
+			.ajax_loader .cube,
+			.ajax_loader .rotating_cubes .cube1, .ajax_loader .rotating_cubes .cube2,
+			.ajax_loader .stripes > div,
+			.ajax_loader .wave > div,
+			.ajax_loader .two_rotating_circles .dot1, .ajax_loader .two_rotating_circles .dot2,
+			.ajax_loader .five_rotating_circles .container1 > div, .ajax_loader .five_rotating_circles .container2 > div, .ajax_loader .five_rotating_circles .container3 > div,
+			.separator.small,
+			.testimonials_holder .flex-direction-nav a:hover,
+			.q_price_table .price_table_inner,
+			.carousel-inner .item.dark .slider_content .text .qbutton:hover,
+			.vertical_menu_hidden_button_line,
+			.vertical_menu_hidden_button_line:after,.vertical_menu_hidden_button_line:before,
+			.blog_vertical_loop_button .button_icon a,
+			.blog_vertical_loop_back_button .button_icon a
+
+			 {
+			background-color: #4c3a46;
+			}
+
+
+		
+						
+			.portfolio_navigation .portfolio_prev a:hover,
+			.portfolio_navigation .portfolio_next a:hover,
+			.q_tabs.vertical .tabs-nav li.active a,
+			.q_tabs.vertical.left .tab-content,
+			.q_tabs.vertical.right .tab-content,
+			.q_tabs.boxed .tabs-nav li.active a,
+			.q_tabs.boxed .tabs-container,
+			.q_accordion_holder.accordion .ui-accordion-header .accordion_mark,
+			.single_links_pages span,
+			.single_links_pages a:hover span,
+			.pagination ul li span,
+			.pagination ul li a:hover,
+			.service_table_inner li {
+			border-color: #ffce43			}
+
+			.q_progress_bar .progress_content_outer,
+			.q_progress_bars_vertical .progress_content_outer,
+			.portfolio_navigation .portfolio_prev a:hover,
+			.portfolio_navigation .portfolio_next a:hover,
+			.q_accordion_holder.accordion .ui-accordion-header.ui-state-active .accordion_mark,
+			.q_accordion_holder.accordion.boxed .ui-accordion-header,
+			.q_social_icon_holder .fa-stack,
+			.single_links_pages span,
+			.single_links_pages a:hover span,
+			.pagination ul li span,
+			.pagination ul li a:hover,
+			.q_circles_holder .q_circle_inner2 {
+			background-color: #ffce43			}
+
+				
+			.q_icon_with_title span.fa-stack i:last-child,
+			.q_box_holder.with_icon span.fa-stack i:last-child,
+			.q_masonry_blog article.format-quote .q_masonry_blog_post_text i.qoute_mark,
+			.q_masonry_blog article.format-link .q_masonry_blog_post_text i.link_mark,
+			.q_masonry_blog article .quote_author,
+			.blog_holder article.format-quote .post_text i.qoute_mark,
+			.blog_holder article.format-link .post_text i.link_mark,
+			.blog_holder article.format-quote .post_text .quote_author,
+			.blog_holder.blog_large_image_with_dividers article.format-quote .post_text span.qoute_mark,
+			.blog_holder.blog_large_image_with_dividers article.format-link .post_text span.link_mark,
+			.blog_holder.blog_large_image_with_dividers article.format-quote .post_text .quote_author,
+			.animated_icon_inner i {
+			color: #ff0095			}
+
+			.q_box_holder.with_icon,
+			.q_icon_with_title .icon_holder .fa-stack,
+			.box_holder_icon_inner .fa-stack,
+			.q_font_awsome_icon_square,
+			.q_font_awsome_icon_stack i.fa-stack-base,
+			.animated_icon_inner i {
+			border-color: #ff0095			}
+
+			
+		
 					body{
-											font-family: 'Bebas Neue', sans-serif;
+											font-family: 'Open Sans', sans-serif;
 						 color: #8e8e8e; 			 font-size: 15px; 			font-weight: 400;			}
 							body,
 				.wrapper,
@@ -369,7 +545,7 @@
 		
 						header.fixed_hiding .q_logo a,
 				header.fixed_hiding .q_logo{
-				max-height: 37px;
+				max-height: 447px;
 				}
 				
 		
@@ -1066,21 +1242,21 @@
 
 .qode-btn { text-transform: none;font-style: normal;}
 
-.qode-interactive-project-list .qode-ipl-inner .qode-ipl-left article .qode-ipl-item-inner .qode-ipl-item-text .qode-ipl-title, .qode-interactive-project-list .qode-ipl-inner .qode-ipl-left article .qode-ipl-item-inner .qode-ipl-item-text .qode-ipl-title-aux { color: #a19169;-webkit-text-stroke-color: #a19169;}
+.qode-interactive-project-list .qode-ipl-inner .qode-ipl-left article .qode-ipl-item-inner .qode-ipl-item-text .qode-ipl-title, .qode-interactive-project-list .qode-ipl-inner .qode-ipl-left article .qode-ipl-item-inner .qode-ipl-item-text .qode-ipl-title-aux { color: #281d25;-webkit-text-stroke-color: #281d25;}
 
-.qode-interactive-project-list .qode-ipl-inner .qode-ipl-left article .qode-ipl-item-inner .qode-ipl-item-text .qode-ipl-category-holder a { color: #a19169;}
+.qode-interactive-project-list .qode-ipl-inner .qode-ipl-left article .qode-ipl-item-inner .qode-ipl-item-text .qode-ipl-category-holder a { color: #281d25;}
 
-.qode-interactive-project-list .qode-ipl-inner .qode-ipl-left article .qode-ipl-item-inner .qode-ipl-item-text .qode-ipl-item-number-holder span { color: #a19169;border-color: rgba(161, 145, 105, .2);}
+.qode-interactive-project-list .qode-ipl-inner .qode-ipl-left article .qode-ipl-item-inner .qode-ipl-item-text .qode-ipl-item-number-holder span { color: #281d25;border-color: rgba(40, 29, 37, .2);}
 
-.latest_post_holder.image_on_the_left_boxed .date_hour_holder, .latest_post_holder.image_on_the_left_boxed .featured .read_more:before { background-color: #a19169;}
+.latest_post_holder.image_on_the_left_boxed .date_hour_holder, .latest_post_holder.image_on_the_left_boxed .featured .read_more:before { background-color: #281d25;}
 
-.qode-portfolio-carousel .qode-pc-custom-cursor { color: #a19169;border-color: #a19169;}
+.qode-portfolio-carousel .qode-pc-custom-cursor { color: #281d25;border-color: #281d25;}
 
-#qode-portfolio-list-stacked .qode-pls-end-of-scroll .qode-eos-title * { color: #a19169;-webkit-text-stroke-color: #a19169;}
+#qode-portfolio-list-stacked .qode-pls-end-of-scroll .qode-eos-title * { color: #281d25;-webkit-text-stroke-color: #281d25;}
 
-#qode-pls-info .qode-pls-title-holder .qode-pls-title a { color: #a19169;}
+#qode-pls-info .qode-pls-title-holder .qode-pls-title a { color: #281d25;}
 
-#qode-portfolio-list-stacked .qode-pls-scroll-note .qode-pls-down svg path { fill: #a19169;}
+#qode-portfolio-list-stacked .qode-pls-scroll-note .qode-pls-down svg path { fill: #281d25;}
 
 
 

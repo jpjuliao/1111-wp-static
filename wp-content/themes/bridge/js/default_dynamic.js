@@ -13,8 +13,8 @@
 																
 		var logo_height = 130; // proya logo height
 		var logo_width = 280; // proya logo width
-								logo_height = 75;
-						logo_width = 97;
+								logo_height = 894;
+						logo_width = 1076;
 
 												header_top_height = 33;
 						var loading_text;
@@ -24,7 +24,7 @@
 		
 			var piechartcolor;
 			piechartcolor	= "#1abc9c";
-							piechartcolor = "#a19169";
+							piechartcolor = "#281d25";
 			
 			var geocoder;
 			var map;
